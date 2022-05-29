@@ -1,5 +1,5 @@
 # watermarker
-Module to put a watermark in the bottom right corner of a video/image uwu
+Module to put a watermark in the bottom left corner of a video/image uwu
 
 ## Example of use
 ```py
