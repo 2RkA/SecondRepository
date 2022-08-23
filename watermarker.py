@@ -3,6 +3,7 @@ import traceback
 import subprocess
 from PIL import Image
 
+# 13.4/4
 
 class watermarker:
     def __init__(self, original_path: str, new_path: str, logo_path: str, width_scale: int):
