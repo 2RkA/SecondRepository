@@ -1,6 +1,6 @@
-# watermarker
-Module to put a watermark in the bottom left corner of a video/image uwu
-> (I'm not familiar with modules at all, so there might be some wrong stuff)
+# Watermarker
+
+A simple Python module written to Watermark images in the bottom left corner.
 
 ## Example of use
 ```py
