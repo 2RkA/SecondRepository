@@ -4,6 +4,7 @@ import subprocess
 from PIL import Image
 
 # 13.4/4
+#Yaroslav Platonov IB-b-21-1-o
 
 class watermarker:
     def __init__(self, original_path: str, new_path: str, logo_path: str, width_scale: int):
